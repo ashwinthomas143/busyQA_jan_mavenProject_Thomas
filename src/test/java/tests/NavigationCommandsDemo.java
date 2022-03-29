@@ -28,6 +28,8 @@ public class NavigationCommandsDemo extends BaseTest{
         if (homepageTitle.equals(driver.getTitle())){
             System.out.println("Success");
         }
+
+
     }
 
 
